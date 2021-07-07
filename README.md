@@ -23,7 +23,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://flamboyant-wilson-4d814c.netlify.app/](https://flamboyant-wilson-4d814c.netlify.app/)
 
 ## My process
 
